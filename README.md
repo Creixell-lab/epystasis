@@ -4,4 +4,4 @@ Code for WT independent Epistasis Calculations
 
 
 Google colab file is at:
-https://colab.research.google.com/github/Creixell-lab/epystasis/blob/main/Epistasis_20250807.ipynb
+[![Open In Colab] (https://colab.research.google.com/github/Creixell-lab/epystasis/blob/main/Epistasis_20250807.ipynb)
