@@ -7,5 +7,5 @@ Google colab file is at:
 [![Open In Colab] (https://colab.research.google.com/github/Creixell-lab/epystasis/blob/main/Epistasis_20250807.ipynb)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/<USER>/<REPO>/blob/<BRANCH>/<PATH/TO/NOTEBOOK>.ipynb](https://colab.research.google.com/github/Creixell-lab/epystasis/blob/main/Epistasis_20250807.ipynb))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([[https://colab.research.google.com/github/<USER>/<REPO>/blob/<BRANCH>/<PATH/TO/NOTEBOOK>.ipynb](https://colab.research.google.com/github/Creixell-lab/epystasis/blob/main/Epistasis_20250807.ipynb)](https://colab.research.google.com/github/Creixell-lab/epystasis/blob/main/Epistasis_20250807.ipynb))
 
